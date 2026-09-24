@@ -1,2 +1,2 @@
-# java_xideral
-Proyecto recopilatorio de lo trabajado en Xideral con respecto a Java
+# Java Xideral
+Aqui se encuentran las tareas y actividades relacionadas con el Curso de FUll STACK, especificamente de Java.
